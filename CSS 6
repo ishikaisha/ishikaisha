@@ -1,0 +1,10 @@
+p {
+  border: 2px solid powderblue;
+  margin: 50px;
+}
+
+<link rel="stylesheet" href="https://www.w3schools.com/html/styles.css">
+
+<link rel="stylesheet" href="/html/styles.css">
+
+
