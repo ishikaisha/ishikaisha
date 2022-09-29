@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+#example1 {
+  width: 300px;
+  padding: 40px
+  border: 15px solid blue;
+}
+
+#example2 {
+  width: 300px
+  padding: 10px;  
+  border: 2px solid red;
+}
+</style>
+</head>
+<body>
