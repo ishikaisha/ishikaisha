@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  width: 150px; 
+  border: 1px solid #000000;
+}
+
+div.a {
+  word-wrap: normal;
+}
+
+div.b {
+  word-wrap: break-word;
+}
+</style>
+</head>
+<body>
