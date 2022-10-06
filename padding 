@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.ex1 {
+  border: 1px solid red; 
+  padding: 35px;
+}
+
+p.ex2 {
+  border: 1px solid red; 
+  margin: 35px;
+}
+
+</style>
+</head>
+<body>
+
+padding-bottom
+p.ex1 {
+  padding-bottom: 25px;
+}
+
+
+padding left property 
+p.ex1 {
+  padding-left: 50px;
+}
+
+padding right property
+p.ex1 {
+  padding-right: 150px;
+}
+
+padding-top Property
+p.ex1 {
+  padding-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

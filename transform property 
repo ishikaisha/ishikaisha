@@ -1,0 +1,38 @@
+div {
+  transform: rotate(45deg);
+  transform-origin: 20% 40%;
+}
+
+
+div {
+  transform: rotateY(60deg);
+  transform-style: preserve-3d;
+}
+
+
+div {
+  width: 100px;
+  transition: width 2s;
+}
+
+div:hover {
+  width: 300px;
+}
+
+
+div {
+  transition-delay: 2s;
+}
+
+
+div {
+  transition-duration: 5s;
+}
+
+
+div {
+  transition-property: width;
+}
+div:hover {
+  width: 300px;
+} 

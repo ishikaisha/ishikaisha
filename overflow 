@@ -1,0 +1,102 @@
+div.ex1 {
+  overflow: scroll;
+}
+
+div.ex2 {
+  overflow: hidden;
+}
+
+div.ex3 {
+  overflow: auto;
+}
+
+div.ex4 {
+  overflow: clip;
+}
+
+div.ex5 {
+  overflow: visible;
+}
+
+overflow-wrap Property
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  width: 150px; 
+  border: 1px solid #000000;
+}
+
+div.a {
+  overflow-wrap: normal;
+}
+
+div.b {
+  overflow-wrap: break-word;
+}
+
+div.c {
+  overflow-wrap: anywhere;
+}
+</style>
+</head>
+
+overflow-x Property
+div.ex1 {
+  overflow-x: scroll;
+}
+
+div.ex2 {
+  overflow-x: hidden;
+}
+
+div.ex3 {
+  overflow-x: auto;
+}
+
+div.ex4 {
+  overflow-x: visible;
+}
+
+overflow-y Property
+div.ex1 {
+  overflow-y: scroll;
+}
+
+div.ex2 {
+  overflow-y: hidden;
+}
+
+div.ex3 {
+  overflow-y: auto;
+}
+
+div.ex4 {
+  overflow-y: visible;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
